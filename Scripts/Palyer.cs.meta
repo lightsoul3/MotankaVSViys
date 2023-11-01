@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: a9b06ff2a87e5cf45b722d845b2f8a5f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - redMark: {instanceID: 0}
+  - orangeMark: {instanceID: 0}
+  - greenMark: {instanceID: 0}
+  - blueMark: {instanceID: 0}
+  - yellowMark: {instanceID: 0}
+  - pinkMark: {instanceID: 0}
+  - purpleMark: {instanceID: 0}
+  - explosion: {fileID: 686523794063140916, guid: aed09cfddbf35e543a72b9d632223052, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
